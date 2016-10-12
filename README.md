@@ -2294,3 +2294,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [Aerrowize/C-Sharp](https://github.com/Aerrowize/C-Sharp) - Partie Logiciel (de mon travail bien sur ^^)
 * [Acap72/cSHARP](https://github.com/Acap72/cSHARP) - Console applications for C Sharp class
 * [22itay/c-Sharp](https://github.com/22itay/c-Sharp) - c#
+* [newsight](http://newsight.de/) - german c# blog
