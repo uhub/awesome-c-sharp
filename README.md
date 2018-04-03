@@ -2221,3 +2221,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [kubiix/ReSharper.StyleCop](https://github.com/kubiix/ReSharper.StyleCop) - StyleCop support for ReSharper
 * [reuzel/CqlSharp](https://github.com/reuzel/CqlSharp) - An ADO.Net driver for Cassandra
 * [dotMorten/SharpGIS.GZipWebClient](https://github.com/dotMorten/SharpGIS.GZipWebClient) - GZip WebClient for Windows Phone
+* [FlubuCore](https://github.com/flubu-core/flubu.core) -Fluent builder is A C# library for building projects and executing deployment scripts using C# code.
