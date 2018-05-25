@@ -1966,7 +1966,7 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [netputer/netputweets](https://github.com/netputer/netputweets) - 抱着奶瓶腿 享受推的乐趣
 * [mrniko/netty-socketio-demo](https://github.com/mrniko/netty-socketio-demo) - netty-socketio demo
 * [HearthStats/HearthStats.net-Uploader](https://github.com/HearthStats/HearthStats.net-Uploader) - Auto uploader for HearthStats.net
-* [garethdown44/nbuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects in .NET
+* [nbuilder/nbuilder](https://github.com/nbuilder/nbuilder) - Rapid generation of test objects in .NET
 * [dwmkerr/sharpgl](https://github.com/dwmkerr/sharpgl) - Use OpenGL in .NET applications. SharpGL wraps all modern OpenGL features and offers a powerful scene graph to aid development.
 * [codrops/css-reference-issues](https://github.com/codrops/css-reference-issues) - A repo for collecting issues and suggestions for the Codrops CSS Reference http://tympanus.net/codrops/css_reference/
 * [bittercoder/DevDefined.OAuth](https://github.com/bittercoder/DevDefined.OAuth) - An OAuth Consumer and Provider implemented for .Net
