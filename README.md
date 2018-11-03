@@ -2,6 +2,7 @@
 
 A curated list of awesome C-Sharp frameworks, libraries and software.
 
+* [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value formatted files).
 * [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 * [dotnet/corefx](https://github.com/dotnet/corefx) - This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others. We welcome contributions.
 * [dotnet/coreclr](https://github.com/dotnet/coreclr) - This repo contains the .NET Core runtime, called CoreCLR, and the base library, called System.Private.Corelib (or mscorlib). It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes. We welcome contributions.
