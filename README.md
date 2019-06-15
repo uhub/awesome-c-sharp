@@ -2469,3 +2469,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [kubiix/ReSharper.StyleCop](https://github.com/kubiix/ReSharper.StyleCop) - StyleCop support for ReSharper
 * [reuzel/CqlSharp](https://github.com/reuzel/CqlSharp) - An ADO.Net driver for Cassandra
 * [dotMorten/SharpGIS.GZipWebClient](https://github.com/dotMorten/SharpGIS.GZipWebClient) - GZip WebClient for Windows Phone
+* [tagcode/Lexical.Localization](https://github.com/tagcode/Lexical.Localization) - Localization for class libraries and applications.
