@@ -2566,3 +2566,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [kubiix/ReSharper.StyleCop](https://github.com/kubiix/ReSharper.StyleCop) - StyleCop support for ReSharper
 * [reuzel/CqlSharp](https://github.com/reuzel/CqlSharp) - An ADO.Net driver for Cassandra
 * [dotMorten/SharpGIS.GZipWebClient](https://github.com/dotMorten/SharpGIS.GZipWebClient) - GZip WebClient for Windows Phone
+* [OKTAYKIR/jsonapi-consumer](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI services
