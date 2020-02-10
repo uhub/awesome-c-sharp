@@ -2566,3 +2566,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [kubiix/ReSharper.StyleCop](https://github.com/kubiix/ReSharper.StyleCop) - StyleCop support for ReSharper
 * [reuzel/CqlSharp](https://github.com/reuzel/CqlSharp) - An ADO.Net driver for Cassandra
 * [dotMorten/SharpGIS.GZipWebClient](https://github.com/dotMorten/SharpGIS.GZipWebClient) - GZip WebClient for Windows Phone
+* [OKTAYKIR/EFCoreAuditing](https://github.com/OKTAYKIR/EFCoreAuditing) - A Library for EntityFrameworkCore to support automatically recording data changes history (audit logging), soft-delete, and Snakecase naming convention functionality.
