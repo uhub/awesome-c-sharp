@@ -592,6 +592,7 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [Jie2GG/Native.Csharp.Frame](https://github.com/Jie2GG/Native.Csharp.Frame) - 完全由 C# 语言编写的 QQ机器人插件 SDK
 * [vivet/GoogleApi](https://github.com/vivet/GoogleApi) - C# .NET Core Google Api (Maps, Places, Roads, Search, Translate). Supports all endpoints and requests / responses.
 * [maartenba/GoogleAnalyticsTracker](https://github.com/maartenba/GoogleAnalyticsTracker) - GoogleAnalyticsTracker - A C# library for tracking Google Analytics
+* [devtodev-analytics/winstore-sdk] (https://github.com/devtodev-analytics/winstore-sdk) - library for uwp and win game projects for track user activity
 * [cosullivan/SmtpServer](https://github.com/cosullivan/SmtpServer) - A SMTP Server component written in C#
 * [rscustom/rocksmith-custom-song-toolkit](https://github.com/rscustom/rocksmith-custom-song-toolkit) - Custom song toolkit for Rocksmith and Rocksmith 2014
 * [Redth/APNS-Sharp](https://github.com/Redth/APNS-Sharp) - Apple Push Notification & Feedback Services Client C# Library
