@@ -1005,3 +1005,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [LordMike/TMDbLib](https://github.com/LordMike/TMDbLib) - C#.Net library for TheMovieDB.
 * [freedombird9/wechat-deletion-check](https://github.com/freedombird9/wechat-deletion-check) - Windows app that checks who deleted/blocked you in WeChat.
 * [dotnet/core-sdk](https://github.com/dotnet/core-sdk) - .NET Core SDK Setup
+* [iamartyom/ColorHelper](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors spaces
