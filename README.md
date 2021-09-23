@@ -1050,3 +1050,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [LordMike/TMDbLib](https://github.com/LordMike/TMDbLib) - C#.Net library for TheMovieDB.
 * [freedombird9/wechat-deletion-check](https://github.com/freedombird9/wechat-deletion-check) - Windows app that checks who deleted/blocked you in WeChat.
 * [dotnet/core-sdk](https://github.com/dotnet/core-sdk) - .NET Core SDK Setup
+* [GehtSoft/Barcodes](https://github.com/gehtsoft-usa/Gehtsoft.Barcodes) - Cross-platform C# library for generation of different types of barcodes and QR codes. 
