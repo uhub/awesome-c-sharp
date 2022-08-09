@@ -1002,3 +1002,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [ivanpaulovich/dotnet-new-caju](https://github.com/ivanpaulovich/dotnet-new-caju) - Learn Clean Architecture with .NET Core 3.0 :fire:
 * [adrianaisemberg/CLAP](https://github.com/adrianaisemberg/CLAP) - CLAP: A Kick-Ass .NET Command-Line Parser
 * [steponteam/FaceRecognization](https://github.com/steponteam/FaceRecognization) - A C# wrapper of arcsoft's face recogization library.
+* [json-to-c-sharp](https://github.com/AchoArnold/json-to-c-sharp) - This tool instantly escapes a JSON string into a C# string variable.
