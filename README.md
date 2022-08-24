@@ -744,3 +744,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [michaelday008/AnyRPGCore](https://github.com/michaelday008/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
 * [stillwwater/command_terminal](https://github.com/stillwwater/command_terminal) - Unity Command Terminal: In-Game Console
 * [n2cms/n2cms](https://github.com/n2cms/n2cms) - N2 CMS, an open source CMS for ASP.NET
+* [Explore C# @kandi](https://kandi.openweaver.com/explore/csharp) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
