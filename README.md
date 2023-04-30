@@ -3,12 +3,12 @@
 A curated list of awesome C-Sharp frameworks, libraries and software.
 
 * [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-* [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+* [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 * [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-* [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 * [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+* [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 * [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
 * [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 * [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
@@ -28,18 +28,17 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 * [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-* [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 * [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+* [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 * [egametang/ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 * [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 * [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
-* [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.
+* [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 * [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 * [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - This repository has examples of broken patterns in ASP.NET Core applications
 * [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-* [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-* [dotnetcore/CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 * [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
+* [dotnetcore/CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 * [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 * [aalhour/C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#
 * [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
@@ -47,21 +46,292 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
 * [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
 * [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
-* [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 * [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
+* [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 * [sta/websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [dotnet-state-machine/stateless](https://github.com/dotnet-state-machine/stateless) - A simple library for creating state machines in C# code
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 * [Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 * [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 * [neuecc/MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
-* [Jimmey-Jiang/Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
 * [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
+* [Jimmey-Jiang/Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
 * [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
 * [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
 * [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
-* [anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) - 💖 ASP.NET Core 6.0/7.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
 * [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+* [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
+* [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
+* [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 虚谷 orm, 国产 orm, Clickhouse orm, QuestDB orm, MsAccess orm.
+* [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+* [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
+* [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
+* [cobbr/Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
+* [openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
+* [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
+* [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
+* [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog
+* [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+* [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+* [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
+* [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+* [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
+* [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) - visualized crawler & ETL IDE written with C#/WPF
+* [mongodb/mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - The Official C# .NET Driver for MongoDB
+* [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
+* [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - An advanced ocean system implemented in Unity
+* [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
+* [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
+* [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+* [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
+* [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
+* [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
+* [Ourpalm/ILRuntime](https://github.com/Ourpalm/ILRuntime) - Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible.
+* [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
+* [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
+* [Unity-Technologies/NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) - High Level API Components for Runtime NavMesh Building
+* [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
+* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+* [zeromq/netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
+* [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
+* [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+* [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+* [bflattened/bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
+* [Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+* [bombomby/optick](https://github.com/bombomby/optick) - C++ Profiler For Games
+* [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+* [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
+* [mono/CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages
+* [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
+* [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
+* [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#.
+* [confluentinc/confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client
+* [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
+* [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
+* [abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns) - Project : Design Patterns Examples in C#
+* [sjdirect/abot](https://github.com/sjdirect/abot) - Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.
+* [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
+* [natemcmaster/CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET
+* [nhibernate/nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
+* [castleproject/Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
+* [xamarin/XamarinComponents](https://github.com/xamarin/XamarinComponents) - Plugins for Xamarin
+* [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, java, c#, go(golang), lua, javascript(js), typescript(ts),  erlang, rust, gdscript, protobuf schema, flatbuffers schema, custom template} code。
+* [Demigiant/dotween](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
+* [filoe/cscore](https://github.com/filoe/cscore) - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.
+* [adamhathcock/sharpcompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a fully managed C# library to deal with many compression types and formats.
+* [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
+* [kwwwvagaa/NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl) - HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~
+* [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - :whale: .NET (C#) Client Library for Docker API
+* [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+* [Codeusa/SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
+* [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
+* [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
+* [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
+* [2881099/csredis](https://github.com/2881099/csredis) - .NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients.
+* [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
+* [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+* [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
+* [SonyWWS/ATF](https://github.com/SonyWWS/ATF) - Authoring Tools Framework (ATF) is a set of C#/.NET components for making tools on Windows. ATF has been in continuous development in Sony Computer Entertainment's (SCE) Worldwide Studios central tools group since early 2005. ATF has been used by most SCE first party studios to make many custom tools such as Naughty Dog’s level editor and shader editor for The Last of Us, Guerrilla Games’ sequence editor for Killzone games (including the Killzone: Shadow Fall PS4 launch title), an animation blending tool at Santa Monica Studio, a level editor at Bend Studio, a visual state machine editor for Quantic Dream, sound editing tools, and many others.
+* [Unity-Technologies/com.unity.netcode.gameobjects](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) - Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.
+* [rabbitmq/rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
+* [MichalStrehovsky/zerosharp](https://github.com/MichalStrehovsky/zerosharp) - Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.
+* [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
+* [justcoding121/titanium-web-proxy](https://github.com/justcoding121/titanium-web-proxy) - A cross-platform asynchronous HTTP(S) proxy server in C#.
+* [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) - Sample code for the Microsoft Cognitive Services Speech SDK
+* [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck) - Identifies the bytes that Microsoft Defender flags on.
+* [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
+* [xamarin/xamarin-android](https://github.com/xamarin/xamarin-android) - Xamarin.Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
+* [alelievr/NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor) - Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
+* [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
+* [codecadwallader/codemaid](https://github.com/codecadwallader/codemaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+* [PiranhaCMS/piranha.core](https://github.com/PiranhaCMS/piranha.core) - Piranha CMS is the friendly editor-focused CMS for .NET6 that can be used both as an integrated CMS or as a headless API.
+* [nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) - A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+* [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+* [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
+* [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+* [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
+* [DotNetOpenAuth/DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth protocols
+* [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+* [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
+* [jasonhua95/awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core) - .NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
+* [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C# and Unity.
+* [cube0x0/CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) - C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527
+* [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
+* [ivaylokenov/MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing library for ASP.NET Core MVC.
+* [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching) - :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
+* [dynamicexpresso/DynamicExpresso](https://github.com/dynamicexpresso/DynamicExpresso) - C# expressions interpreter
+* [xamarin/XamarinCommunityToolkit](https://github.com/xamarin/XamarinCommunityToolkit) - The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.
+* [bepu/bepuphysics2](https://github.com/bepu/bepuphysics2) - Pure C# 3D real time physics simulation library, now with a higher version number.
+* [cobbr/SharpSploit](https://github.com/cobbr/SharpSploit) -  SharpSploit is a .NET post-exploitation library written in C#
+* [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) - Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.
+* [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore is an AOP-based cross platform framework for .NET Standard.
+* [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache) - An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
+* [asynkron/protoactor-dotnet](https://github.com/asynkron/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
+* [DavidArayan/ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+* [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
+* [SebLague/Path-Creator](https://github.com/SebLague/Path-Creator) - Path creation asset for Unity game development
+* [dotnet/Comet](https://github.com/dotnet/Comet) - Comet is an MVU UIToolkit written in C#
+* [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
+* [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
+* [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
+* [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+* [oleg-shilo/cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
+* [asadsahi/AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:
+* [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
+* [webprofusion/certify](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
+* [yingDev/WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
+* [microsoft/CsWin32](https://github.com/microsoft/CsWin32) - A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
+* [microsoftarchive/cqrs-journey](https://github.com/microsoftarchive/cqrs-journey) - Microsoft patterns & pratices CQRS Journey sample application
+* [markrendle/Simple.Data](https://github.com/markrendle/Simple.Data) - A light-weight, dynamic data access component for C# 4.0
+* [microsoft/coyote](https://github.com/microsoft/coyote) - Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs.
+* [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+* [stella3d/job-system-cookbook](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
+* [lerocha/chinook-database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
+* [ScutGame/Scut](https://github.com/ScutGame/Scut) - Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.
+* [NRules/NRules](https://github.com/NRules/NRules) - Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#.
+* [Monnoroch/ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.
+* [Matthew-J-Spencer/Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) - A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc
+* [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
+* [JohnnyCrazy/SpotifyAPI-NET](https://github.com/JohnnyCrazy/SpotifyAPI-NET) - :sound: A Client for the Spotify Web API, written in C#/.NET
+* [Unity-Technologies/Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics) - The C# math library used in Unity providing vector types and math functions with a shader like syntax
+* [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
+* [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
+* [amaneureka/AtomOS](https://github.com/amaneureka/AtomOS) - A multitasking monolithic Kernel based x86 targeting Operating System written in C# from scratch aiming for high-level implementation of drivers in managed environment.
+* [bcgit/bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
+* [sabresaurus/SabreCSG](https://github.com/sabresaurus/SabreCSG) - Level design tools for Unity
+* [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) - MySQL Connector for .NET
+* [moonsharp-devs/moonsharp](https://github.com/moonsharp-devs/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
+* [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀
+* [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool Written in C#
+* [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
+* [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
+* [Unity-Technologies/com.unity.multiplayer.samples.coop](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) - A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.
+* [tomakita/Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your .NET console output!
+* [Cinchoo/ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI
+* [unity3d-jp/unitychan-crs](https://github.com/unity3d-jp/unitychan-crs) - Unity-Chan "Candy Rock Star" Live Demo
+* [iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) - An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.
+* [AnyListen/YaVipCore](https://github.com/AnyListen/YaVipCore) - Net Core Music Interface
+* [Coldairarrow/Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) - Admin Fx Based On .NET 5 + Ant Design Vue
+* [googleapis/google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client) - Google APIs Client Library for .NET
+* [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) - Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
+* [dathlin/HslCommunication](https://github.com/dathlin/HslCommunication) - A very popular industrial Internet of Things communication plug-in. Using this dll can be very convenient, stable, and fast to obtain data from PLC equipment of multiple brands, and also supports redis, mqtt, websocket, etc., which can let your data on the network Free transmission, reducing enterprise development costs.
+* [ArthurHub/HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer) - Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library.
+* [dotnetcore/Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
+* [justcoding121/advanced-algorithms](https://github.com/justcoding121/advanced-algorithms) - 100+ algorithms & data structures generically implemented in C#.
+* [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) - 基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
+* [OpenSAGE/OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - OpenSAGE is a free, open source re-implementation of SAGE, the 3D real time strategy (RTS) engine used in Command & Conquer: Generals and other RTS titles from EA Pacific. Written in C#. Not affiliated with EA.
+* [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
+* [dathlin/ClientServerProject](https://github.com/dathlin/ClientServerProject) - 一个C-S模版，该模版由三部分的程序组成，一个服务端运行的程序，一个客户端运行的程序，还有一个公共的组件，实现了基础的账户管理功能，版本控制，软件升级，公告管理，消息群发，共享文件上传下载，批量文件传送功能。具体的操作方法见演示就行。本项目的一个目标是：提供一个基础的中小型系统的C-S框架，客户端有三种模式，无缝集成访问，winform版本，wpf版本，asp.net mvc版本，方便企业进行中小型系统的二次开发和个人学习。同时网络组件方便的支持读写三菱和西门子PLC的数据，详细见Readme
+* [StyleCop/StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
+* [PavelTorgashov/FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.
+* [rosenbjerg/FFMpegCore](https://github.com/rosenbjerg/FFMpegCore) - A .NET FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your C# applications
+* [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Windows tool to check for NVIDIA GPU driver updates
+* [matterpreter/OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp) - Collection of Offensive C# Tooling
+* [Real-Serious-Games/C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
+* [MarimerLLC/csla](https://github.com/MarimerLLC/csla) - A home for your business logic in any .NET application.
+* [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
+* [code-cracker/code-cracker](https://github.com/code-cracker/code-cracker) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
+* [Azure/azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools) - Command line tools for Azure Functions
+* [yanghuan/CSharp.lua](https://github.com/yanghuan/CSharp.lua) - The C# to Lua compiler
+* [proyecto26/RestClient](https://github.com/proyecto26/RestClient) - 🦄  A Promise based REST and HTTP client for Unity 🎮
+* [giacomelli/GeneticSharp](https://github.com/giacomelli/GeneticSharp) - GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs).
+* [chenjd/Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters) - Animation Baker and Instancing for Animated Characters: Using GPU to implement large-amount animation characters rendering. The animation map for vertex shader to modify the vertex position of the mesh at runtime. Using GPU instancing to reduce draw calls.
+* [Almantask/CSharp-From-Zero-To-Hero](https://github.com/Almantask/CSharp-From-Zero-To-Hero) - C# boot camp
+* [Thraka/SadConsole](https://github.com/Thraka/SadConsole) - A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!
+* [loklak/loklak_dotnet_api](https://github.com/loklak/loklak_dotnet_api) - A C#.NET Wrapper for Loklak to be used with Windows applications
+* [xebecnan/UniLua](https://github.com/xebecnan/UniLua) - A pure c# implementation of Lua 5.2 focus on compatibility with Unity
+* [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载
+* [oleg-shilo/wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C# syntax.
+* [flibitijibibo/SDL2-CS](https://github.com/flibitijibibo/SDL2-CS) - SDL2# - C# Wrapper for SDL2
+* [filipw/Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) - ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers
+* [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.
+* [GhostPack/SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - SharpDPAPI is a C# port of some Mimikatz DPAPI functionality.
+* [kubernetes-client/csharp](https://github.com/kubernetes-client/csharp) - Officially supported dotnet Kubernetes Client library
+* [microsoft/CodeContracts](https://github.com/microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
+* [VaughnVernon/IDDD_Samples_NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168
+* [DigDes/SoapCore](https://github.com/DigDes/SoapCore) - SOAP extension for ASP.NET Core
+* [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
+* [luxkun/ReGoap](https://github.com/luxkun/ReGoap) - Generic C# GOAP (Goal Oriented Action Planning) library with Unity3d examples
+* [wangfreexx/wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle) - 天若ocr开源版本的本地版，采用Chinese-lite和paddleocr识别框架
+* [facebook-csharp-sdk/facebook-csharp-sdk](https://github.com/facebook-csharp-sdk/facebook-csharp-sdk) - Facebook SDK for .NET
+* [pointfeev/CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selected games' DLCs, then provides a very simple graphical interface utilizing the gathered information for the maintenance of DLC unlockers.
+* [nifanfa/MOOS](https://github.com/nifanfa/MOOS) - C# x64 operating system programming with the .NET native ahead-of-time compilation technology.
+* [Habrador/Computational-geometry](https://github.com/Habrador/Computational-geometry) - Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc
+* [Scrawk/Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
+* [siemens/ros-sharp](https://github.com/siemens/ros-sharp) - ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D
+* [OfficeDev/TrainingContent](https://github.com/OfficeDev/TrainingContent) - Training Content used for developer.microsoft.com/office
+* [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
+* [googleapis/google-cloud-dotnet](https://github.com/googleapis/google-cloud-dotnet) - Google Cloud Client Libraries for .NET
+* [ghost1372/HandyControls](https://github.com/ghost1372/HandyControls) - Contains some simple and commonly used WPF controls based on HandyControl
+* [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+* [ststeiger/PdfSharpCore](https://github.com/ststeiger/PdfSharpCore) - Port of the PdfSharp library to .NET Core - largely removed GDI+ (only missing GetFontData - which can be replaced with freetype2)
+* [NiclasOlofsson/MiNET](https://github.com/NiclasOlofsson/MiNET) - A (not so) basic Minecraft Pocket Edition server written in C#
+* [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+* [security-code-scan/security-code-scan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET
+* [fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) - 可能是全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。
+* [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
+* [mvelazc0/defcon27_csharp_workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Writing custom backdoor payloads with C# - Defcon 27 Workshop
+* [TastSong/CrazyCar](https://github.com/TastSong/CrazyCar) - 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级)
+* [snatch-dev/Convey](https://github.com/snatch-dev/Convey) - A simple recipe for .NET Core microservices.
+* [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) - C# Open-Source Winforms application for uploading files to VirusTotal
+* [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game.
+* [aspnetboilerplate/module-zero-core-template](https://github.com/aspnetboilerplate/module-zero-core-template) - ASP.NET Core MVC / Angular Startup Project For ASP.NET Boilerplate
+* [AddictedCS/soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting) - Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.
+* [spr1ngd/UnityCodes](https://github.com/spr1ngd/UnityCodes) - SpringGUI是对UGUI的拓展，提供十多种UI组件用于快速开发。
+* [aliostad/CacheCow](https://github.com/aliostad/CacheCow) - An implementation of HTTP Caching in .NET Core and 4.5.2+ for both the client and the server
+* [mmanela/diffplex](https://github.com/mmanela/diffplex) - DiffPlex is Netstandard 1.0+ C# library to generate textual diffs.
+* [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!
+* [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
+* [saucepleez/taskt](https://github.com/saucepleez/taskt) - taskt (pronounced 'tasked' and formely sharpRPA) is free and open-source robotic process automation (rpa) built in C# powered by the .NET Framework
+* [grumpydev/TinyIoC](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
+* [nlkl/Optional](https://github.com/nlkl/Optional) - A robust option type for C#
+* [dotnet/crank](https://github.com/dotnet/crank) - Benchmarking infrastructure for applications
+* [ubisoft/Sharpmake](https://github.com/ubisoft/Sharpmake) - Sharpmake is an open-source C#-based solution for generating project definition files, such as Visual Studio projects and solutions, GNU makefiles, Xcode projects, etc.
+* [Nition/UnityOctree](https://github.com/Nition/UnityOctree) - A dynamic, loose octree implementation for Unity written in C#
+* [khalidabuhakmeh/ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables) - Print out a nicely formatted table in a console application C#
+* [Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for CobaltStrike beacons and parse their configuration
+* [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) - Resources for visualizing data using C# and the .NET platform
+* [msgpack/msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / msgpack.org[C#]
+* [Catel/Catel](https://github.com/Catel/Catel) - An application development platform
+* [kirevdokimov/Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners) - This components and shaders allows you to add rounded corners to UI elements!
+* [samcook/RedLock.net](https://github.com/samcook/RedLock.net) - An implementation of the Redlock algorithm in C#
+* [cjddmut/Unity-2D-Platformer-Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
+* [tonerdo/readline](https://github.com/tonerdo/readline) - A Pure C# GNU-Readline like library for .NET/.NET Core
+* [tevora-threat/SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView
+* [KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
+* [ErikEJ/SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox) - SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)
+* [hey-hoho/ScheduleMasterCore](https://github.com/hey-hoho/ScheduleMasterCore) - This is a distributed task management system base on .Net Core platform .
+* [dotnetcore/Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core) - 支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core >=2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，比如生活号、服务窗、行业合作等，且用法几乎一样，代码都可参考官方文档代码。
+* [Quobject/SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .Net
+* [Misaka-Mikoto-Tech/MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) - hook C# method at runtime without modify dll file (such as UnityEditor.dll), works on Windows, Mac, Android il2cpp(armv7a and armv8a)
+* [cofoundry-cms/cofoundry](https://github.com/cofoundry-cms/cofoundry) - Cofoundry is an extensible and flexible .NET Core CMS & application framework focusing on code first development
+* [stratisproject/StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) - Bitcoin full node in C#
+* [wieslawsoltes/Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
+* [NModbus4/NModbus4](https://github.com/NModbus4/NModbus4) - NModbus4 is a C# implementation of the Modbus protocol. This project is archived in favor of https://github.com/NModbus/NModbus
+* [ExtCore/ExtCore](https://github.com/ExtCore/ExtCore) - Free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core
+* [FSecureLABS/SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse) - SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by that GPO.
+* [dbrizov/NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
+* [chvancooten/OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets) - A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course.
+* [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) - A simple remote tool in C#.
+* [CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus) - 让复制更加简单！
+* [Unity-Technologies/com.unity.formats.alembic](https://github.com/Unity-Technologies/com.unity.formats.alembic) - Alembic importer and exporter plugin for Unity
+* [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
+* [mono/Embeddinator-4000](https://github.com/mono/Embeddinator-4000) - Tools to turn .NET libraries into native libraries that can be consumed on Android, iOS, Mac, Linux and other platforms.
+* [HangfireIO/Cronos](https://github.com/HangfireIO/Cronos) - Fully-featured .NET library for working with Cron expressions. Built with time zones in mind and intuitively handles daylight saving time transitions
+* [erfg12/memory.dll](https://github.com/erfg12/memory.dll) - C# Hacking library for making PC game trainers.
+* [SteveSandersonMS/CarChecker](https://github.com/SteveSandersonMS/CarChecker) - A sample Blazor WebAssembly application that includes authentication, in-browser data storage, offline support, localization, responsive layouts, and more. For a video walkthrough, see this link:
+* [VictorTzeng/Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore) - 基于EF Core的Code First模式的DotNetCore快速开发框架，其中包括DBContext、IOC组件autofac和AspectCore.Injector、代码生成器（也支持DB First）、基于AspectCore的memcache和Redis缓存组件，以及基于ICanPay的支付库和一些日常用的方法和扩展，比如批量插入、更新、删除以及触发器支持，当然还有demo。欢迎提交各种建议、意见和pr~
+* [mattjohnsonpint/TimeZoneConverter](https://github.com/mattjohnsonpint/TimeZoneConverter) - Lightweight libraries to convert between IANA, Windows, Rails, and POSIX time zones.
+* [RiptideNetworking/Riptide](https://github.com/RiptideNetworking/Riptide) - Lightweight C# networking solution for multiplayer games.
+* [Dandarawy/UnityBookPageCurl](https://github.com/Dandarawy/UnityBookPageCurl) - Page curl effect for Unity3d using UGUI
+* [Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS](https://github.com/Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS) - ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统
+* [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
+* [bonesoul/CoiniumServ](https://github.com/bonesoul/CoiniumServ) - Next-gen crypto currency mining pool software
+* [dotnet/LLVMSharp](https://github.com/dotnet/LLVMSharp) - LLVM bindings for .NET Standard written in C# using ClangSharp
+* [xamarinhq/app-conference](https://github.com/xamarinhq/app-conference) - Pre-build conference application built with Xamarin
+* [SebLague/Clouds](https://github.com/SebLague/Clouds) - Cloud rendering test
+* [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.
+* [anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) - 💖 ASP.NET Core 6.0/7.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
 * [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 * [commandlineparser/commandline](https://github.com/commandlineparser/commandline) - The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support
 * [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 新手友好的C#万能工具库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
@@ -69,57 +339,9 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites
 * [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
 * [MvvmCross/MvvmCross](https://github.com/MvvmCross/MvvmCross) - The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
-* [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
-* [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
-* [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 虚谷 orm, 国产 orm, Clickhouse orm, QuestDB orm, MsAccess orm.
-* [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
-* [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
-* [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
-* [cobbr/Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
 * [QianMo/Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern) - :tea:  All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns  written in Unity C#. | 各种设计模式的Unity3D C#版本实现
-* [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
-* [openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) - Versatile OAuth 2.0/OpenID Connect stack for .NET
 * [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications
-* [Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) - Play lunar lander in you windows file copy dialog
-* [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
-* [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
-* [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
-* [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) - visualized crawler & ETL IDE written with C#/WPF
-* [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
-* [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
-* [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
-* [mongodb/mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - The Official C# .NET Driver for MongoDB
-* [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
-* [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - An advanced ocean system implemented in Unity
-* [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
-* [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
-* [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
-* [Ourpalm/ILRuntime](https://github.com/Ourpalm/ILRuntime) - Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible.
-* [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
-* [opentk/opentk](https://github.com/opentk/opentk) - The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.
-* [Unity-Technologies/NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) - High Level API Components for Runtime NavMesh Building
-* [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
-* [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
-* [zeromq/netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
-* [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
-* [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
-* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-* [Caliburn-Micro/Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
-* [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
-* [bflattened/bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
-* [bombomby/optick](https://github.com/bombomby/optick) - C++ Profiler For Games
-* [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
-* [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
-* [mono/CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages
-* [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
-* [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
-* [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
-* [confluentinc/confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client
-* [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#.
-* [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 * [jbevain/cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
-* [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
 * [GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA) - C# SCADA
 * [neuecc/Utf8Json](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 * [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
@@ -136,67 +358,7 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。
 * [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
 * [Auburn/FastNoiseLite](https://github.com/Auburn/FastNoiseLite) - Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL
-* [sjdirect/abot](https://github.com/sjdirect/abot) - Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.
-* [abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns) - Project : Design Patterns Examples in C#
-* [natemcmaster/CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET
-* [nhibernate/nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
-* [castleproject/Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
-* [PlummersSoftwareLLC/Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
-* [xamarin/XamarinComponents](https://github.com/xamarin/XamarinComponents) - Plugins for Xamarin
-* [Demigiant/dotween](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
-* [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
-* [adamhathcock/sharpcompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a fully managed C# library to deal with many compression types and formats.
-* [kwwwvagaa/NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl) - HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~
 * [chronoxor/NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
-* [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, java, c#, go(golang), lua, javascript(js), typescript(ts),  erlang, rust, gdscript, protobuf schema, flatbuffers schema, custom template} code。
-* [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - :whale: .NET (C#) Client Library for Docker API
-* [Codeusa/SteamCleaner](https://github.com/Codeusa/SteamCleaner) - :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:
-* [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
-* [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
-* [2881099/csredis](https://github.com/2881099/csredis) - .NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients.
-* [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
-* [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
-* [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
-* [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
-* [SonyWWS/ATF](https://github.com/SonyWWS/ATF) - Authoring Tools Framework (ATF) is a set of C#/.NET components for making tools on Windows. ATF has been in continuous development in Sony Computer Entertainment's (SCE) Worldwide Studios central tools group since early 2005. ATF has been used by most SCE first party studios to make many custom tools such as Naughty Dog’s level editor and shader editor for The Last of Us, Guerrilla Games’ sequence editor for Killzone games (including the Killzone: Shadow Fall PS4 launch title), an animation blending tool at Santa Monica Studio, a level editor at Bend Studio, a visual state machine editor for Quantic Dream, sound editing tools, and many others.
-* [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
-* [Unity-Technologies/com.unity.netcode.gameobjects](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) - Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.
-* [rabbitmq/rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
-* [xamarin/xamarin-android](https://github.com/xamarin/xamarin-android) - Xamarin.Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
-* [justcoding121/titanium-web-proxy](https://github.com/justcoding121/titanium-web-proxy) - A cross-platform asynchronous HTTP(S) proxy server in C#.
-* [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck) - Identifies the bytes that Microsoft Defender flags on.
-* [PiranhaCMS/piranha.core](https://github.com/PiranhaCMS/piranha.core) - Piranha CMS is the friendly editor-focused CMS for .NET6 that can be used both as an integrated CMS or as a headless API.
-* [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
-* [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
-* [alelievr/NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor) - Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
-* [DotNetOpenAuth/DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth protocols
-* [nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) - A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
-* [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-* [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
-* [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
-* [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
-* [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
-* [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) - Sample code for the Microsoft Cognitive Services Speech SDK
-* [jasonhua95/awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core) - .NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
-* [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-* [cube0x0/CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) - C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527
-* [ivaylokenov/MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing library for ASP.NET Core MVC.
-* [NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp) - Open-Source Remote Administration Tool For Windows C# (RAT)
-* [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero encoding extreme performance binary serializer for C# and Unity.
-* [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
-* [xamarin/XamarinCommunityToolkit](https://github.com/xamarin/XamarinCommunityToolkit) - The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.
-* [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching) - :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
-* [dynamicexpresso/DynamicExpresso](https://github.com/dynamicexpresso/DynamicExpresso) - C# expressions interpreter
-* [cobbr/SharpSploit](https://github.com/cobbr/SharpSploit) -  SharpSploit is a .NET post-exploitation library written in C#
-* [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore is an AOP-based cross platform framework for .NET Standard.
-* [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) - Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.
-* [bepu/bepuphysics2](https://github.com/bepu/bepuphysics2) - Pure C# 3D real time physics simulation library, now with a higher version number.
-* [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache) - An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
-* [asynkron/protoactor-dotnet](https://github.com/asynkron/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
-* [DavidArayan/ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
-* [phw198/OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync) - Sync your Outlook and Google calendars
-* [dotnet/Comet](https://github.com/dotnet/Comet) - Comet is an MVU UIToolkit written in C#
-* [SebLague/Path-Creator](https://github.com/SebLague/Path-Creator) - Path creation asset for Unity game development
 * [PixelVision8/PixelVision8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 * [gradientspace/geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) - C# library for 2D/3D geometric computation, mesh algorithms, and so on. Boost license.
 * [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange card content in a common and consistent way.
@@ -210,79 +372,11 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [CoreWCF/CoreWCF](https://github.com/CoreWCF/CoreWCF) - Main repository for the Core WCF project
 * [yhuse/SunnyUI](https://github.com/yhuse/SunnyUI) - SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。
 * [microsoft/CDM](https://github.com/microsoft/CDM) - The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.
-* [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
 * [microsoft/ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
-* [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
-* [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
-* [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
 * [ArduPilot/MissionPlanner](https://github.com/ArduPilot/MissionPlanner) - Mission Planner Ground Control Station for ArduPilot (c# .net)
-* [asadsahi/AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:
-* [oleg-shilo/cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
 * [ReClassNET/ReClass.NET](https://github.com/ReClassNET/ReClass.NET) - More than a ReClass port to the .NET platform.
-* [webprofusion/certify](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
-* [microsoftarchive/cqrs-journey](https://github.com/microsoftarchive/cqrs-journey) - Microsoft patterns & pratices CQRS Journey sample application
-* [yingDev/WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
-* [markrendle/Simple.Data](https://github.com/markrendle/Simple.Data) - A light-weight, dynamic data access component for C# 4.0
-* [microsoft/CsWin32](https://github.com/microsoft/CsWin32) - A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
-* [microsoft/coyote](https://github.com/microsoft/coyote) - Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs.
-* [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
-* [stella3d/job-system-cookbook](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
-* [ScutGame/Scut](https://github.com/ScutGame/Scut) - Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.
-* [Monnoroch/ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.
-* [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
-* [NRules/NRules](https://github.com/NRules/NRules) - Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#.
-* [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
-* [lerocha/chinook-database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
-* [JohnnyCrazy/SpotifyAPI-NET](https://github.com/JohnnyCrazy/SpotifyAPI-NET) - :sound: A Client for the Spotify Web API, written in C#/.NET
-* [Unity-Technologies/Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics) - The C# math library used in Unity providing vector types and math functions with a shader like syntax
-* [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
-* [Matthew-J-Spencer/Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) - A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc
-* [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
-* [amaneureka/AtomOS](https://github.com/amaneureka/AtomOS) - A multitasking monolithic Kernel based x86 targeting Operating System written in C# from scratch aiming for high-level implementation of drivers in managed environment.
-* [sabresaurus/SabreCSG](https://github.com/sabresaurus/SabreCSG) - Level design tools for Unity
-* [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) - Async MySQL Connector for .NET
-* [bcgit/bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
 * [dotnet/codeformatter](https://github.com/dotnet/codeformatter) - Tool that uses Roslyn to automatically rewrite the source to follow our coding styles
-* [cloudscribe/cloudscribe](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more
-* [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
-* [moonsharp-devs/moonsharp](https://github.com/moonsharp-devs/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
-* [Squalr/Squalr](https://github.com/Squalr/Squalr) - Squalr Memory Editor - Game Hacking Tool Written in C#
-* [tomakita/Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your .NET console output!
-* [unity3d-jp/unitychan-crs](https://github.com/unity3d-jp/unitychan-crs) - Unity-Chan "Candy Rock Star" Live Demo
-* [Coldairarrow/Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) - Admin Fx Based On .NET 5 + Ant Design Vue
-* [AnyListen/YaVipCore](https://github.com/AnyListen/YaVipCore) - Net Core Music Interface
-* [Unity-Technologies/com.unity.multiplayer.samples.coop](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) - A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.
-* [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) - Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
-* [Cinchoo/ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI
-* [iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) - An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.
-* [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀
-* [googleapis/google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client) - Google APIs Client Library for .NET
-* [ArthurHub/HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer) - Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library.
-* [justcoding121/advanced-algorithms](https://github.com/justcoding121/advanced-algorithms) - 100+ algorithms & data structures generically implemented in C#.
-* [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
-* [dotnetcore/Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
-* [OpenSAGE/OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - OpenSAGE is a free, open source re-implementation of SAGE, the 3D real time strategy (RTS) engine used in Command & Conquer: Generals and other RTS titles from EA Pacific. Written in C#. Not affiliated with EA.
-* [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) - 基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
-* [dathlin/HslCommunication](https://github.com/dathlin/HslCommunication) - A very popular industrial Internet of Things communication plug-in. Using this dll can be very convenient, stable, and fast to obtain data from PLC equipment of multiple brands, and also supports redis, mqtt, websocket, etc., which can let your data on the network Free transmission, reducing enterprise development costs.
-* [dathlin/ClientServerProject](https://github.com/dathlin/ClientServerProject) - 一个C-S模版，该模版由三部分的程序组成，一个服务端运行的程序，一个客户端运行的程序，还有一个公共的组件，实现了基础的账户管理功能，版本控制，软件升级，公告管理，消息群发，共享文件上传下载，批量文件传送功能。具体的操作方法见演示就行。本项目的一个目标是：提供一个基础的中小型系统的C-S框架，客户端有三种模式，无缝集成访问，winform版本，wpf版本，asp.net mvc版本，方便企业进行中小型系统的二次开发和个人学习。同时网络组件方便的支持读写三菱和西门子PLC的数据，详细见Readme
-* [StyleCop/StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
-* [PavelTorgashov/FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.
-* [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Windows tool to check for NVIDIA GPU driver updates
-* [matterpreter/OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp) - Collection of Offensive C# Tooling
-* [code-cracker/code-cracker](https://github.com/code-cracker/code-cracker) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
-* [Real-Serious-Games/C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
-* [MarimerLLC/csla](https://github.com/MarimerLLC/csla) - A home for your business logic in any .NET application.
-* [Azure/azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools) - Command line tools for Azure Functions
-* [yanghuan/CSharp.lua](https://github.com/yanghuan/CSharp.lua) - The C# to Lua compiler
-* [Thraka/SadConsole](https://github.com/Thraka/SadConsole) - A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!
-* [loklak/loklak_dotnet_api](https://github.com/loklak/loklak_dotnet_api) - A C#.NET Wrapper for Loklak to be used with Windows applications
-* [rosenbjerg/FFMpegCore](https://github.com/rosenbjerg/FFMpegCore) - A .NET FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your C# applications
-* [giacomelli/GeneticSharp](https://github.com/giacomelli/GeneticSharp) - GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs).
-* [xebecnan/UniLua](https://github.com/xebecnan/UniLua) - A pure c# implementation of Lua 5.2 focus on compatibility with Unity
-* [Almantask/CSharp-From-Zero-To-Hero](https://github.com/Almantask/CSharp-From-Zero-To-Hero) - C# boot camp
-* [proyecto26/RestClient](https://github.com/proyecto26/RestClient) - 🦄  A Promise based REST and HTTP client for Unity 🎮
 * [ericdc1/Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD) - Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
-* [chenjd/Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters) - Animation Baker and Instancing for Animated Characters: Using GPU to implement large-amount animation characters rendering. The animation map for vertex shader to modify the vertex position of the mesh at runtime. Using GPU instancing to reduce draw calls.
 * [opendns/dnscrypt-win-client](https://github.com/opendns/dnscrypt-win-client) - Windows front end for DNSCrypt Proxy
 * [BluestormDNA/ProjectPSX](https://github.com/BluestormDNA/ProjectPSX) - Experimental C# Playstation Emulator
 * [andrewkirillov/AForge.NET](https://github.com/andrewkirillov/AForge.NET) - AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc.
@@ -300,7 +394,6 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [NikolayIT/ASP.NET-Core-Template](https://github.com/NikolayIT/ASP.NET-Core-Template) - A ready-to-use template for ASP.NET Core with repositories, services, models mapping, DI and StyleCop warnings fixed.
 * [terrajobst/minsk](https://github.com/terrajobst/minsk) - This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
 * [bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore) - Bing是基于 .net core 3.1 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。
-* [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
 * [axuno/SmartFormat](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
 * [Grabacr07/KanColleViewer](https://github.com/Grabacr07/KanColleViewer) - 艦これブラウザーのようなもの
 * [GhostPack/SharpUp](https://github.com/GhostPack/SharpUp) - SharpUp is a C# port of various PowerUp functionality.
@@ -308,67 +401,11 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [SebLague/Marching-Cubes](https://github.com/SebLague/Marching-Cubes) - Coding Adventure
 * [dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core) - high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵
 * [guryanovev/CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) - pluggable UI for Quartz.NET
-* [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载
 * [casbin/Casbin.NET](https://github.com/casbin/Casbin.NET) - An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#)
 * [GregFinzer/Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) - What you have been waiting for :+1:  Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
 * [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
-* [flibitijibibo/SDL2-CS](https://github.com/flibitijibibo/SDL2-CS) - SDL2# - C# Wrapper for SDL2
 * [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 7 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
-* [oleg-shilo/wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C# syntax.
-* [filipw/Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) - ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers
-* [microsoft/CodeContracts](https://github.com/microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
-* [facebook-csharp-sdk/facebook-csharp-sdk](https://github.com/facebook-csharp-sdk/facebook-csharp-sdk) - Facebook SDK for .NET
-* [VaughnVernon/IDDD_Samples_NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168
-* [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.
-* [kubernetes-client/csharp](https://github.com/kubernetes-client/csharp) - Officially supported dotnet Kubernetes Client library
 * [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) - Cloud Flare scanner
-* [GhostPack/SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - SharpDPAPI is a C# port of some Mimikatz DPAPI functionality.
-* [DigDes/SoapCore](https://github.com/DigDes/SoapCore) - SOAP extension for ASP.NET Core
-* [luxkun/ReGoap](https://github.com/luxkun/ReGoap) - Generic C# GOAP (Goal Oriented Action Planning) library with Unity3d examples
-* [siemens/ros-sharp](https://github.com/siemens/ros-sharp) - ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D
-* [OfficeDev/TrainingContent](https://github.com/OfficeDev/TrainingContent) - Training Content used for developer.microsoft.com/office
-* [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
-* [nifanfa/MOOS](https://github.com/nifanfa/MOOS) - C# x64 operating system programming with the .NET native ahead-of-time compilation technology.
-* [googleapis/google-cloud-dotnet](https://github.com/googleapis/google-cloud-dotnet) - Google Cloud Client Libraries for .NET
-* [Scrawk/Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
-* [Habrador/Computational-geometry](https://github.com/Habrador/Computational-geometry) - Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc
-* [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
-* [NiclasOlofsson/MiNET](https://github.com/NiclasOlofsson/MiNET) - A (not so) basic Minecraft Pocket Edition server written in C#
-* [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
-* [security-code-scan/security-code-scan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET
-* [ghost1372/HandyControls](https://github.com/ghost1372/HandyControls) - Contains some simple and commonly used WPF controls based on HandyControl
-* [ststeiger/PdfSharpCore](https://github.com/ststeiger/PdfSharpCore) - Port of the PdfSharp library to .NET Core - largely removed GDI+ (only missing GetFontData - which can be replaced with freetype2)
-* [snatch-dev/Convey](https://github.com/snatch-dev/Convey) - A simple recipe for .NET Core microservices.
-* [aspnetboilerplate/module-zero-core-template](https://github.com/aspnetboilerplate/module-zero-core-template) - ASP.NET Core MVC / Angular Startup Project For ASP.NET Boilerplate
-* [aliostad/CacheCow](https://github.com/aliostad/CacheCow) - An implementation of HTTP Caching in .NET Core and 4.5.2+ for both the client and the server
-* [mvelazc0/defcon27_csharp_workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Writing custom backdoor payloads with C# - Defcon 27 Workshop
-* [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game.
-* [AddictedCS/soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting) - Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.
-* [spr1ngd/UnityCodes](https://github.com/spr1ngd/UnityCodes) - SpringGUI是对UGUI的拓展，提供十多种UI组件用于快速开发。
-* [grumpydev/TinyIoC](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
-* [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
-* [wangfreexx/wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle) - 天若ocr开源版本的本地版，采用Chinese-lite和paddleocr识别框架
-* [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) - C# Open-Source Winforms application for uploading files to VirusTotal
-* [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!
-* [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
-* [TastSong/CrazyCar](https://github.com/TastSong/CrazyCar) - 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级)
-* [dotnet/crank](https://github.com/dotnet/crank) - Benchmarking infrastructure for applications
-* [Nition/UnityOctree](https://github.com/Nition/UnityOctree) - A dynamic, loose octree implementation for Unity written in C#
-* [ubisoft/Sharpmake](https://github.com/ubisoft/Sharpmake) - Sharpmake is an open-source C#-based solution for generating project definition files, such as Visual Studio projects and solutions, GNU makefiles, Xcode projects, etc.
-* [fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) - 可能是全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。
-* [msgpack/msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / msgpack.org[C#]
-* [chvancooten/OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets) - A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course.
-* [dbrizov/NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
-* [erfg12/memory.dll](https://github.com/erfg12/memory.dll) - C# Hacking library for making PC game trainers.
-* [mattjohnsonpint/TimeZoneConverter](https://github.com/mattjohnsonpint/TimeZoneConverter) - Lightweight libraries to convert between IANA, Windows, Rails, and POSIX time zones.
-* [Dandarawy/UnityBookPageCurl](https://github.com/Dandarawy/UnityBookPageCurl) - Page curl effect for Unity3d using UGUI
-* [Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS](https://github.com/Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS) - ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统
-* [xamarinhq/app-conference](https://github.com/xamarinhq/app-conference) - Pre-build conference application built with Xamarin
-* [RiptideNetworking/Riptide](https://github.com/RiptideNetworking/Riptide) - Lightweight C# networking solution for multiplayer games.
-* [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
-* [bonesoul/CoiniumServ](https://github.com/bonesoul/CoiniumServ) - Next-gen crypto currency mining pool software
-* [dotnet/LLVMSharp](https://github.com/dotnet/LLVMSharp) - LLVM bindings for .NET Standard written in C# using ClangSharp
-* [SebLague/Clouds](https://github.com/SebLague/Clouds) - Cloud rendering test
 * [Aetsu/OffensivePipeline](https://github.com/Aetsu/OffensivePipeline) - OfensivePipeline allows you to download and build C# tools, applying certain modifications in order to improve their evasion for Red Team exercises.
 * [markjprice/cs10dotnet6](https://github.com/markjprice/cs10dotnet6) - Repository for the Packt Publishing book titled "C# 10 and .NET 6 - Modern Cross-Platform Development" by Mark J. Price
 * [jgosar/mine-city-2000](https://github.com/jgosar/mine-city-2000) - A program that converts SimCity 2000 cities into Minecraft worlds
@@ -406,47 +443,12 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
 * [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML files.
 * [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
-* [filoe/cscore](https://github.com/filoe/cscore) - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.
-* [codecadwallader/codemaid](https://github.com/codecadwallader/codemaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 * [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
 * [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 * [microsoft/CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - CodeXGLUE
-* [mmanela/diffplex](https://github.com/mmanela/diffplex) - DiffPlex is Netstandard 1.0+ C# library to generate textual diffs.
-* [nlkl/Optional](https://github.com/nlkl/Optional) - A robust option type for C#
-* [tonerdo/readline](https://github.com/tonerdo/readline) - A Pure C# GNU-Readline like library for .NET/.NET Core
-* [khalidabuhakmeh/ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables) - Print out a nicely formatted table in a console application C#
-* [Catel/Catel](https://github.com/Catel/Catel) - An application development platform
-* [Quobject/SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .Net
-* [Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for CobaltStrike beacons and parse their configuration
-* [dotnetcore/Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core) - 支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core >=2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，比如生活号、服务窗、行业合作等，且用法几乎一样，代码都可参考官方文档代码。
-* [cofoundry-cms/cofoundry](https://github.com/cofoundry-cms/cofoundry) - Cofoundry is an extensible and flexible .NET Core CMS & application framework focusing on code first development
-* [hey-hoho/ScheduleMasterCore](https://github.com/hey-hoho/ScheduleMasterCore) - This is a distributed task management system base on .Net Core platform .
-* [ErikEJ/SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox) - SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)
-* [stratisproject/StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) - Bitcoin full node in C#
-* [tevora-threat/SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView
-* [samcook/RedLock.net](https://github.com/samcook/RedLock.net) - An implementation of the Redlock algorithm in C#
-* [KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
-* [saucepleez/taskt](https://github.com/saucepleez/taskt) - taskt (pronounced 'tasked' and formely sharpRPA) is free and open-source robotic process automation (rpa) built in C# powered by the .NET Framework
-* [cjddmut/Unity-2D-Platformer-Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
-* [NModbus4/NModbus4](https://github.com/NModbus4/NModbus4) - NModbus4 is a C# implementation of the Modbus protocol. This project is archived in favor of https://github.com/NModbus/NModbus
-* [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) - Resources for visualizing data using C# and the .NET platform
-* [Unity-Technologies/com.unity.formats.alembic](https://github.com/Unity-Technologies/com.unity.formats.alembic) - Alembic importer and exporter plugin for Unity
-* [mono/Embeddinator-4000](https://github.com/mono/Embeddinator-4000) - Tools to turn .NET libraries into native libraries that can be consumed on Android, iOS, Mac, Linux and other platforms.
-* [ExtCore/ExtCore](https://github.com/ExtCore/ExtCore) - Free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core
-* [VictorTzeng/Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore) - 基于EF Core的Code First模式的DotNetCore快速开发框架，其中包括DBContext、IOC组件autofac和AspectCore.Injector、代码生成器（也支持DB First）、基于AspectCore的memcache和Redis缓存组件，以及基于ICanPay的支付库和一些日常用的方法和扩展，比如批量插入、更新、删除以及触发器支持，当然还有demo。欢迎提交各种建议、意见和pr~
-* [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
-* [wieslawsoltes/Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
-* [SteveSandersonMS/CarChecker](https://github.com/SteveSandersonMS/CarChecker) - A sample Blazor WebAssembly application that includes authentication, in-browser data storage, offline support, localization, responsive layouts, and more. For a video walkthrough, see this link:
-* [CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus) - 让复制更加简单！
-* [FSecureLABS/SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse) - SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by that GPO.
-* [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) - A simple remote tool in C#.
-* [kirevdokimov/Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners) - This components and shaders allows you to add rounded corners to UI elements!
-* [HangfireIO/Cronos](https://github.com/HangfireIO/Cronos) - Fully-featured .NET library for working with Cron expressions. Built with time zones in mind and intuitively handles daylight saving time transitions
-* [Misaka-Mikoto-Tech/MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook) - hook C# method at runtime without modify dll file (such as UnityEditor.dll), works on Windows, Mac, Android il2cpp(armv7a and armv8a)
 * [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 * [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 * [DotNetAnalyzers/StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
-* [MichalStrehovsky/zerosharp](https://github.com/MichalStrehovsky/zerosharp) - Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.
 * [shack2/SuperSQLInjectionV1](https://github.com/shack2/SuperSQLInjectionV1) - 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具,采用C#开发，直接操作TCP会话来进行HTTP交互，支持出现在HTTP协议任意位置的SQL注入，支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持Access/MySQL/SQLServer/Oracle/PostgreSQL/DB2/SQLite/Informix等数据库；支持手动灵活的进行SQL注入绕过，可自定义进行字符替换等绕过注入防护。本工具为渗透测试人员、信息安全工程师等掌握SQL注入技能的人员设计，需要使用人员对SQL注入有一定了解。
 * [audiamus/AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Convert Audible aax files to mp3 and m4a/m4b
 * [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - 🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻
