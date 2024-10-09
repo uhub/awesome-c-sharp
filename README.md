@@ -699,3 +699,5 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [FlingOS/FlingOS](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [BloodHoundAD/SharpHound3](https://github.com/BloodHoundAD/SharpHound3) - C# Data Collector for the BloodHound Project, Version 3
 * [csinn/CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero) - C# boot camp
+* [fluent-cms/fluent-cms](https://github.com/fluent-cms/fluent-cms) - RESTful CRUD (Create, Read, Update, Delete) APIs, Admin Panel web pages,a GraphQL-style query designer and a Drag-n-Drop web page designer, all fully configurable without writing code.
+
