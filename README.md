@@ -28,6 +28,7 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/
 * [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 * [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+* [Nonanti/MathFlow](https://github.com/Nonanti/MathFlow) - Comprehensive math expression library with symbolic computation support for .NET
 * [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 * [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 * [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
