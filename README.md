@@ -829,3 +829,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [FlingOS/FlingOS](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [BloodHoundAD/SharpHound3](https://github.com/BloodHoundAD/SharpHound3) - C# Data Collector for the BloodHound Project, Version 3
 * [csinn/CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero) - C# boot camp
+* [LumiBearStudio/SpanFinder](https://github.com/LumiBearStudio/SpanFinder) - A macOS Finder-style Miller Columns file explorer for Windows built with WinUI 3 and .NET 8. Features multi-tab, split view, 10 themes, keyboard-first design, and FTP/SFTP support.
