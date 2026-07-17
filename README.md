@@ -844,3 +844,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [FlingOS/FlingOS](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [BloodHoundAD/SharpHound3](https://github.com/BloodHoundAD/SharpHound3) - C# Data Collector for the BloodHound Project, Version 3
 * [csinn/CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero) - C# boot camp
+* [cognisoc/llmdot](https://github.com/cognisoc/llmdot) - One NuGet package to run local GGUF language models from .NET (C#) — bindings over llama.cpp.
