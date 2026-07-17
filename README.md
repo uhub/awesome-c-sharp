@@ -844,3 +844,4 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [FlingOS/FlingOS](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [BloodHoundAD/SharpHound3](https://github.com/BloodHoundAD/SharpHound3) - C# Data Collector for the BloodHound Project, Version 3
 * [csinn/CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero) - C# boot camp
+* [AvlCodeMonkey-Industries/FeatureFlags.app](https://github.com/AvlCodeMonkey-Industries/FeatureFlags.Client) - A privacy-first feature flag platform for .NET developers. Manage feature releases, enable gradual rollouts, and stay cloud agnostic without vendor lock-in.
