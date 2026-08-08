@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/uhub-awesome-c-sharp-badge.png)](https://mseep.ai/app/uhub-awesome-c-sharp)
+
 # awesome-c-sharp
 
 A curated list of awesome C-Sharp frameworks, libraries and software.
